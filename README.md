@@ -120,3 +120,9 @@ AEGIS demonstrates the combination of business analysis, industrial engineering,
 
 **AEGIS — Enterprise Decision Intelligence**  
 *Portfolio case study | Illustrative business data | Functional prototype*
+
+## Who it benefits
+
+Business owners, executives and departmental analysts: consistent comparison of operational risks, ranked priorities and recorded assessments.
+
+These are intended users and benefits, not evidence of adoption or measured customer outcomes.
