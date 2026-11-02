@@ -1,5 +1,9 @@
 # AEGIS | Enterprise Decision Intelligence
 
+## Project roadmap — concept to sale
+
+![Current project timeline](docs/project-roadmap.svg)
+
 **Business analysis · Operational risk · Financial intelligence · Executive dashboards**
 
 **Status:** Functional prototype | **Stack:** Python, Streamlit, Pandas, Plotly, JSON | **Repository:** Public showcase · Application source: private
