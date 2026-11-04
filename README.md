@@ -130,3 +130,7 @@ AEGIS demonstrates the combination of business analysis, industrial engineering,
 Business owners, executives and departmental analysts: consistent comparison of operational risks, ranked priorities and recorded assessments.
 
 These are intended users and benefits, not evidence of adoption or measured customer outcomes.
+
+## Repository verification
+
+[Current scoped verification results](VERIFICATION.md). Run `python tools/verify_repository.py --visibility public`.
